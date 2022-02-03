@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "commitlint.config.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "commitlint.config.js", "pages/_document.jsx"],
   "exclude": ["node_modules"]
 }
